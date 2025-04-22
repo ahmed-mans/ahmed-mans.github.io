@@ -6,57 +6,95 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
-                {
                     "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "title": "python"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/c.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
                 }
+                
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/opencv_logo1.png",
+                    "title": "OpenCV"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/Tensorflow_logo.svg.png",
+                    "title": "Tensorflow"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/pytorchlogo.png",
+                    "title": "Pytorch"
+                }, 
+                {
+                    "icon": "images/skills/keras.png",
+                    "title": "Keras"
+                },
+                {
+                    "icon": "images/skills/scikitlogo.png",
+                    "title": "Scikit-Learn"
+                },
+                {
+                    "icon": "images/skills/scipy_logo.png",
+                    "title": "Scipy"
+                },
+                
+                {
+                    "icon": "images/skills/numpy.png",
+                    "title": "Numpy"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/Matplotlib.png",
+                    "title": "Matplotlib"
                 }
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
+                                {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/Github.png",
+                    "title": "Github"
+                },
+                {
+                    "icon": "images/skills/Anaconda.png",
+                    "title": "Anaconda"
+                },
+                {
+                    "icon": "images/skills/Jupyter.png",
+                    "title": "Jupyter"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/Raspberry Pi.png",
+                    "title": "Raspberry Pi"
+                },
+                {
+                    "icon": "images/skills/Arduino.png",
+                    "title": "Arduino"
+                },
+                {
+                    "icon": "images/skills/MATLAB.png",
+                    "title": "Matlab"
                 }
             ]
     }

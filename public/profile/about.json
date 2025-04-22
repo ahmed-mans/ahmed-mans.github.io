@@ -1,5 +1,6 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
+    "about": " I’m Ahmed, a passionate Computer Vision Engineer based in Belgium. I thrive on transforming complex visual data into intelligent, actionable insights. My curiosity drives me to constantly explore new technologies, experiment with deep learning models, and stay up-to-date with the latest research in the computer vision world.\n\nOver the years, I’ve worked on a variety of projects that blend innovation and real-world problem solving. Whether it’s implementing object detection systems, working with neural networks, or optimizing pipelines, I enjoy every step of the journey from concept to deployment.\n\nOutside of tech, I’m a huge football fan, a lover of the outdoors, and an avid reader. Hiking through nature or diving into a good book helps keep my mind balanced and inspired.\n\nI'm always excited to connect with fellow tech enthusiasts, collaborate on cool ideas, or simply share knowledge. Let’s build something amazing together!"
+,
+    "imageSource": "images/about/photo profil.jpg"
     
 }

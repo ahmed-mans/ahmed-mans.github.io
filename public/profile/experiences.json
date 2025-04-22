@@ -1,33 +1,27 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "System Engineer",
+            "subtitle": "FN Herstal",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Led the development and management of three key subsystems (Display, Control Handle, Control Panel) for a next-generation Remote WeaponStation to ensure performance and delivery targets are met.",
+                "Managed supplier relationships, conducting weekly alignment meetings to track prototypes, resolve issues, and align on timelines.",
+                "Coordinated cross-functional efforts across engineering, testing, and integration teams to validate subsystem functionality prior to full systemrollout."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "09/2023 – 04/2024"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "System Engineer",
+            "subtitle": "Toyota Motor Europe",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "BrusselsLed multiple illuminated component integrations for new Toyota and Lexus models, balancing strategic planning with hands-on execution tomeet launch and quality targets.",
+                "Performed technical feasibility analysis of vehicle electrical systems and designed custom circuits to support non-standard integrations.",
+                "Collaborated cross-functionally with installation and testing teams to ensure successful on-vehicle implementation and validation ofcomponents."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "09/2022 – 09/2023"
         }
+        
     ]
 }

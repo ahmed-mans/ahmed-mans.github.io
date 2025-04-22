@@ -1,150 +1,73 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/floodnet_inference_2.png",
+            "title": "Multi-Class Segmentation of Flood Imagery",
+            "bodyText": "- 🛰️ Performs multi-class **semantic segmentation** on flood imagery using deep learning.\n - 🌊 Detects and classifies features like **flooded areas, roads, buildings, and vegetation**.\n - 📊 Built with Tensorflow, leveraging the **SegFormer** model and custom training pipelines for high-accuracy pixel-wise predictions.\n ",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
-        },
-        {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/ahmed-mans/Multi-Class-Segmentation-of-Flood-imagery"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "OpenCV",
+                "Deep Learning",
+                "Tensorflow",
+                "Transformers"
             ]
         },
+        
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/traffics.png",
+            "title": "Traffic Sign Classification",
+            "bodyText": "- 🚦 Built a deep learning model to classify traffic signs using the GTSRB dataset. \n - 🧠 Utilized Tensorflow with a CNN architecture to recognize and categorize over 40 traffic sign classes. \n - 📊 Includes data preprocessing, training, evaluation, and visualization of model performance.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/ahmed-mans/GTSRB-Traffic-sign-classification"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "OpenCV",
+                "Tensorflow",
+                "Deep Learning"
+            ]
+        },
+        {
+            "image" : "images/projects/sports-tools.jpg",
+            "title": "Sports Image Classification",
+            "bodyText": "- 🏅 Image classification of sports types using **deep learning with Tensorflow**. \n - 🧠 **Fine tuned** a pre-trained model to classify images into categories like football, basketball, tennis, etc. \n - 📈 Pipeline includes **data loading, augmentation, model training, and performance evaluation**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ahmed-mans/Sports-Image-Classification"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "OpenCV",
+                "Tensorflow",
+                "Deep Learning"                
+            ]
+        },
+        {
+            "image" : "images/projects/resultimages1.png",
+            "title": "Document Scanner using OpenCV in C++",
+            "bodyText": "- 📄 Developed a document scanner in C++ using OpenCV that **detects and extracts documents** from an image. \n - 🧠 Applies **image processing techniques** like morphological operations, contour detection, and homography. \n - 🔍 Outputs a flattened, top-down view of the document, simulating a real scanned copy.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ahmed-mans/Document-Scanner"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "OpenCV"
             ]
         }
+        
     ]
 }
