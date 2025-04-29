@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/floodnet_inference_2.png",
             "title": "Multi-Class Segmentation of Flood Imagery",
-            "bodyText": "- 🛰️ Performs multi-class **semantic segmentation** on flood imagery using deep learning.\n - 🌊 Detects and classifies features like **flooded areas, roads, buildings, and vegetation**.\n - 📊 Built with Tensorflow, leveraging the **SegFormer** model and custom training pipelines for high-accuracy pixel-wise predictions.\n ",
+            "bodyText": "- 🛰️ Built a multi-class semantic segmentation pipeline for analyzing satellite flood imagery using deep learning. \n - 🌊 Identified and segmented key land cover types, including water, roads, buildings, and vegetation. \n - 🧠 Leveraged the SegFormer transformer-based architecture for efficient and accurate pixel-wise classification. \n - 🔧 Integrated data augmentation and training callbacks to improve generalization and training stability. \n - 📈 Evaluated model performance using Dice score and visual comparison on high-resolution satellite images.",
             "links": [
                 {
                     "text": "GitHub",
@@ -22,7 +22,7 @@
         {
             "image" : "images/projects/traffics.png",
             "title": "Traffic Sign Classification",
-            "bodyText": "- 🚦 Built a deep learning model to classify traffic signs using the GTSRB dataset. \n - 🧠 Utilized Tensorflow with a CNN architecture to recognize and categorize over 40 traffic sign classes. \n - 📊 Includes data preprocessing, training, evaluation, and visualization of model performance.",
+            "bodyText": "- 🚦 Developed a traffic sign recognition system using the GTSRB dataset with over 40 sign classes. \n - 🧠 Built and trained a custom Convolutional Neural Network (CNN) in TensorFlow for high classification accuracy. \n - 📊 Assessed performance using test accuracy and visualized sample predictions for qualitative insights. \n - 📁 Packaged the full pipeline with training scripts, evaluation tools, and model export for reproducibility.",
             "links": [
                 {
                     "text": "GitHub",
