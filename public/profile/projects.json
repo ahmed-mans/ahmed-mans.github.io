@@ -37,7 +37,7 @@
             ]
         },
         {
-            "image" : "images/projects/sports.jpg",
+            "image" : "images/projects/sports_resized.jpg",
             "title": "Sports Image Classification",
             "bodyText": "- 🏅 Image classification of sports types using **deep learning with Tensorflow**. \n - 🧠 **Fine tuned** a pre-trained model to classify images into categories like football, basketball, tennis, etc. \n - 📈 Pipeline includes **data loading, augmentation, model training, and performance evaluation**.",
             "links": [
